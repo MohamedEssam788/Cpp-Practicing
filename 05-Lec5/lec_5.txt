@@ -1,0 +1,19 @@
+
+
+EX 1: Counter class
+Create a simple counter class that always inits to zero. 
+Implement methods increment and decrement that should increment or decrement the counter by 1 each time they are called.
+
+EX 1.1: Operator overloading
+replace increment and decrement methods with overloading operator of ++ and --
+
+EX 1.2: define a step value
+Add an additional variable to account for a step value for the counter 
+so that it's able to count with steps other that one. the step is allowed to be +ve or -ve
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+EX 2:
+Create a Class Called SafeArray that checks when indexing is out of bounds. 
+Start with an int array and a fixed size using a #define. overload the [] operator
+
+
